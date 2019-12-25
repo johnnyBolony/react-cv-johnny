@@ -1,0 +1,47 @@
+.Component{
+    text-align: center;
+    
+  top: 0;
+  /* background-color: yellow; */
+  /* transform: skewY(4deg); */
+  animation: colorchange 4s infinite; /* animation-name followed by duration in seconds*/
+     /* you could also use milliseconds (ms) or something like 2.5s */
+  -webkit-animation: colorchange 4s infinite; /* Chrome and Safari */
+
+}
+
+/* 
+@keyframes colorchange
+{
+  0%   {background: yellow
+    ;}
+  25%  {background: #ffff66
+    ;}
+  50%  {background: yellow
+    ;}
+  75%  {background: #ffff00;}
+  100% {background: yellow;}
+
+  
+  } */
+/* @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
+/*{
+  0%   {background: yellow
+    ;}
+  25%  {background: #ffff66
+    ;}
+  50%  {background: yellow
+    ;}
+  75%  {background: #ffff00;}
+  100% {background: yellow;}
+  
+} */
+
+.BlockContainer{
+    
+}
+
+.Block{
+    display: inline-table;
+    width: 40%;
+}

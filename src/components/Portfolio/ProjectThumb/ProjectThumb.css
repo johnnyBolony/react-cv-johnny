@@ -1,0 +1,37 @@
+.ProjectThumb{
+    font-family: 'Pangolin', cursive;
+    display: inline-block;
+    position: relative;
+    border-radius: 5px;
+    /* float: left; */
+    width: 80px;
+    /* background-color: rgb(0, 255, 42); */
+    
+    color: black;
+    /* border: 1px dashed black; */
+    /* transform: skewY(1deg); */
+
+    padding: 1px;
+    margin: 5px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.15);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.15);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.15);
+
+
+
+}
+
+.ProjectThumb:hover{
+    /* background: darkorange; */
+}
+
+.ProjectThumb img{
+    width: 70px;
+    height: 70px;
+    /* float: left; */
+    border-radius: 5px;
+}
+
+.ProjectThumb a{
+    color: black;
+}

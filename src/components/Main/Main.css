@@ -1,0 +1,48 @@
+.Main{
+    /* text-align: center; */
+}
+
+div.slide-right {
+    width:100%;
+    background: rgba(153, 205, 50, 0.473);
+    font-weight: bold;
+    overflow:hidden;
+    /* font-size: large; */
+    margin-top:0px;
+    margin: 0px;
+    padding: 0px;
+    transform: skewY(4deg);
+
+  }
+  div.slide-right p {
+    animation: 30s slide-left infinite;
+  }
+  
+  @keyframes slide-left {
+    from {
+      margin-left: 50%;
+      width: 1100%; 
+    }
+  
+    to {
+      margin-left: -200%;
+      width: 1100%;
+    }
+  }
+.title{
+    
+    font-family: 'Fugaz One', cursive;
+    margin-left: 30%;
+    margin-top: 20%;
+    color: blanchedalmond;
+
+    margin-bottom: 2px;
+}
+.subtitle{
+    font-family: 'Fugaz One', cursive;
+    margin-left: 60%;
+    margin-top: 2px;
+    margin-bottom: 10%;
+    color: blanchedalmond;
+
+}

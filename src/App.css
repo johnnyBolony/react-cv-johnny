@@ -1,0 +1,68 @@
+body {
+ background: yellowgreen;
+ background-image: url(./pictures/bananaleaves.jpg);
+ 
+}
+/* 
+@keyframes colorchange
+{
+  0%   {background: yellow
+    ;}
+  25%  {background: #ffff66
+    ;}
+  50%  {background: yellow
+    ;}
+  75%  {background: #ffff00;}
+  100% {background: yellow;}
+
+  
+  }
+@-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
+/*{
+  0%   {background: yellow
+    ;}
+  25%  {background: #ffff66
+    ;}
+  50%  {background: yellow
+    ;}
+  75%  {background: #ffff00;}
+  100% {background: yellow;}
+  
+} */
+
+.blue-bg{
+  background: yellowgreen;
+  transform: skewY(4deg);
+  margin: 0px;
+  padding: 0px;
+  margin-bottom: 1px;
+}
+.white-bg{
+  /* background: yellow; */
+  height: 200px;
+  transform: skewY(5deg);
+
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
