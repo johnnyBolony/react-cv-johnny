@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-cv-johnny/static/css/main.db7dbfe2.chunk.css",
+    "main.js": "/react-cv-johnny/static/js/main.a830ff99.chunk.js",
+    "main.js.map": "/react-cv-johnny/static/js/main.a830ff99.chunk.js.map",
+    "runtime-main.js": "/react-cv-johnny/static/js/runtime-main.24a70a04.js",
+    "runtime-main.js.map": "/react-cv-johnny/static/js/runtime-main.24a70a04.js.map",
+    "static/js/2.650844d3.chunk.js": "/react-cv-johnny/static/js/2.650844d3.chunk.js",
+    "static/js/2.650844d3.chunk.js.map": "/react-cv-johnny/static/js/2.650844d3.chunk.js.map",
+    "index.html": "/react-cv-johnny/index.html",
+    "precache-manifest.5d7538d1f22dd7581490ab7e641d61dd.js": "/react-cv-johnny/precache-manifest.5d7538d1f22dd7581490ab7e641d61dd.js",
+    "service-worker.js": "/react-cv-johnny/service-worker.js",
+    "static/css/main.db7dbfe2.chunk.css.map": "/react-cv-johnny/static/css/main.db7dbfe2.chunk.css.map",
+    "static/js/2.650844d3.chunk.js.LICENSE": "/react-cv-johnny/static/js/2.650844d3.chunk.js.LICENSE",
+    "static/media/Capture.PNG": "/react-cv-johnny/static/media/Capture.34b26d19.PNG",
+    "static/media/App.css": "/react-cv-johnny/static/media/bananaleaves.5bb3e2fe.jpg",
+    "static/media/logo.svg": "/react-cv-johnny/static/media/logo.25bf045c.svg",
+    "static/media/memorygame.PNG": "/react-cv-johnny/static/media/memorygame.bd305262.PNG",
+    "static/media/rimon.jpg": "/react-cv-johnny/static/media/rimon.3dff4921.jpg",
+    "static/media/swrthmr.jpg": "/react-cv-johnny/static/media/swrthmr.d6a8f90d.jpg",
+    "static/media/todoapp.png": "/react-cv-johnny/static/media/todoapp.3a7fc8d9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24a70a04.js",
+    "static/js/2.650844d3.chunk.js",
+    "static/css/main.db7dbfe2.chunk.css",
+    "static/js/main.a830ff99.chunk.js"
+  ]
+}
