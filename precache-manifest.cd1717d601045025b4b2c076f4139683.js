@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75ce3999aca1bd01f01985619e403795",
+    "revision": "a204ad59bc7a7ee349d52d3163587461",
     "url": "/react-cv-johnny/index.html"
   },
   {
-    "revision": "20a0522ba4acb79103c9",
-    "url": "/react-cv-johnny/static/css/main.a21faf01.chunk.css"
+    "revision": "7b006c8d3ad680884c4a",
+    "url": "/react-cv-johnny/static/css/main.eee27428.chunk.css"
   },
   {
     "revision": "5f005d83a9522357d005",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-cv-johnny/static/js/2.47436d90.chunk.js.LICENSE"
   },
   {
-    "revision": "20a0522ba4acb79103c9",
-    "url": "/react-cv-johnny/static/js/main.1600614f.chunk.js"
+    "revision": "7b006c8d3ad680884c4a",
+    "url": "/react-cv-johnny/static/js/main.f3714641.chunk.js"
   },
   {
     "revision": "1b8f3f766ea530f7cd67",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "34b26d19e8f55535ddd5bb03536f773f",
     "url": "/react-cv-johnny/static/media/Capture.34b26d19.PNG"
-  },
-  {
-    "revision": "5bb3e2fe4693251b7f16de98315d2e04",
-    "url": "/react-cv-johnny/static/media/bananaleaves.5bb3e2fe.jpg"
   },
   {
     "revision": "f6adc1e937981345d05f564c285a4639",
