@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/react-cv-johnny/static/css/main.eee27428.chunk.css",
-    "main.js": "/react-cv-johnny/static/js/main.80f2b557.chunk.js",
-    "main.js.map": "/react-cv-johnny/static/js/main.80f2b557.chunk.js.map",
+    "main.js": "/react-cv-johnny/static/js/main.8d273b51.chunk.js",
+    "main.js.map": "/react-cv-johnny/static/js/main.8d273b51.chunk.js.map",
     "runtime-main.js": "/react-cv-johnny/static/js/runtime-main.24a70a04.js",
     "runtime-main.js.map": "/react-cv-johnny/static/js/runtime-main.24a70a04.js.map",
-    "static/js/2.47436d90.chunk.js": "/react-cv-johnny/static/js/2.47436d90.chunk.js",
-    "static/js/2.47436d90.chunk.js.map": "/react-cv-johnny/static/js/2.47436d90.chunk.js.map",
+    "static/js/2.436cd926.chunk.js": "/react-cv-johnny/static/js/2.436cd926.chunk.js",
+    "static/js/2.436cd926.chunk.js.map": "/react-cv-johnny/static/js/2.436cd926.chunk.js.map",
     "index.html": "/react-cv-johnny/index.html",
-    "precache-manifest.741aac17cda1de5b5dfc89ad2842fcf9.js": "/react-cv-johnny/precache-manifest.741aac17cda1de5b5dfc89ad2842fcf9.js",
+    "precache-manifest.5ee841eac059e849e03ecdcdff55cf84.js": "/react-cv-johnny/precache-manifest.5ee841eac059e849e03ecdcdff55cf84.js",
     "service-worker.js": "/react-cv-johnny/service-worker.js",
     "static/css/main.eee27428.chunk.css.map": "/react-cv-johnny/static/css/main.eee27428.chunk.css.map",
-    "static/js/2.47436d90.chunk.js.LICENSE": "/react-cv-johnny/static/js/2.47436d90.chunk.js.LICENSE",
+    "static/js/2.436cd926.chunk.js.LICENSE": "/react-cv-johnny/static/js/2.436cd926.chunk.js.LICENSE",
     "static/media/Capture.PNG": "/react-cv-johnny/static/media/Capture.34b26d19.PNG",
+    "static/media/bikes.png": "/react-cv-johnny/static/media/bikes.316397b5.png",
     "static/media/hooksnews.png": "/react-cv-johnny/static/media/hooksnews.f6adc1e9.png",
     "static/media/hookstodo.png": "/react-cv-johnny/static/media/hookstodo.8092c190.png",
     "static/media/logo.svg": "/react-cv-johnny/static/media/logo.25bf045c.svg",
@@ -24,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.24a70a04.js",
-    "static/js/2.47436d90.chunk.js",
+    "static/js/2.436cd926.chunk.js",
     "static/css/main.eee27428.chunk.css",
-    "static/js/main.80f2b557.chunk.js"
+    "static/js/main.8d273b51.chunk.js"
   ]
 }

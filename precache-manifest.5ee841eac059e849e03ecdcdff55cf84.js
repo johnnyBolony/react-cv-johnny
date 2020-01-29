@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1c152e4f7322b66a87a7d3ffa8f2e015",
+    "revision": "38f09eee4c33f7913bc6a6e0e8819a17",
     "url": "/react-cv-johnny/index.html"
   },
   {
-    "revision": "682feb8e943f87ab4073",
+    "revision": "a972218ad2c77fb2f886",
     "url": "/react-cv-johnny/static/css/main.eee27428.chunk.css"
   },
   {
-    "revision": "5f005d83a9522357d005",
-    "url": "/react-cv-johnny/static/js/2.47436d90.chunk.js"
+    "revision": "be811d555987d66dfa2d",
+    "url": "/react-cv-johnny/static/js/2.436cd926.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/react-cv-johnny/static/js/2.47436d90.chunk.js.LICENSE"
+    "url": "/react-cv-johnny/static/js/2.436cd926.chunk.js.LICENSE"
   },
   {
-    "revision": "682feb8e943f87ab4073",
-    "url": "/react-cv-johnny/static/js/main.80f2b557.chunk.js"
+    "revision": "a972218ad2c77fb2f886",
+    "url": "/react-cv-johnny/static/js/main.8d273b51.chunk.js"
   },
   {
     "revision": "1b8f3f766ea530f7cd67",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "34b26d19e8f55535ddd5bb03536f773f",
     "url": "/react-cv-johnny/static/media/Capture.34b26d19.PNG"
+  },
+  {
+    "revision": "316397b5ea5f3a5bf02f1efccafd6dd4",
+    "url": "/react-cv-johnny/static/media/bikes.316397b5.png"
   },
   {
     "revision": "f6adc1e937981345d05f564c285a4639",
